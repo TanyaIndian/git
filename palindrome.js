@@ -1,1 +1,8 @@
-it is a palindrome
+
+
+
+let str = "naman";
+
+let bag = "";
+
+
